@@ -1,5 +1,5 @@
 # Do I append to body or app?
-In vanilla JS, it is not a common occurance to append to body with `document.body.appendChild(element)`. However, in Kynix, there *are* use cases for this.
+In vanilla JS, it is not an uncommon occurance to append to body with `document.body.appendChild(element)`. However, in Kynix, there *are* use cases for this.
 
 ## Appending to Body
 Appending to body is intended for elements that *plan* to stay visible, such as sidebars or headers.
