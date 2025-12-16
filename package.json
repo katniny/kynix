@@ -1,6 +1,6 @@
 {
   "name": "kynix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🔨 Minimal Vite SPA starter with router and pages, made by katniny",
   "bin": {
     "create-kynix": "index.js"

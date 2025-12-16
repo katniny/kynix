@@ -1,6 +1,6 @@
 {
   "name": "my-kynix-app",
-  "version": "1.0.0.1",
+  "version": "1.0.0",
   "description": "My first Kynix app!",
   "private": true,
   "scripts": {
