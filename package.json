@@ -19,7 +19,7 @@
   ],
   "author": "katniny",
   "license": "GPL-2.0-only",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/katniny/kynix/issues"
   },
