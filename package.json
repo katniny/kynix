@@ -1,0 +1,31 @@
+{
+  "name": "kynix",
+  "version": "1.0.0",
+  "description": "🔨 Minimal Vite SPA starter with router and pages, made by katniny",
+  "bin": {
+    "create-kynix": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katniny/kynix.git"
+  },
+  "keywords": [
+    "spa",
+    "router",
+    "template",
+    "easy",
+    "vite",
+    "js"
+  ],
+  "author": "katniny",
+  "license": "GPL-2.0-only",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/katniny/kynix/issues"
+  },
+  "homepage": "https://github.com/katniny/kynix#readme",
+  "files": [
+    "index.js",
+    "template"
+  ]
+}
